@@ -1,0 +1,17 @@
+ student portal britannica is the ultimate student resource for key school subjects like history government literature and more 
+ covid portal while this global health crisis continues to evolve it can be useful to look to past pandemics to better understand how to respond today 
+  women britannica celebrates the centennial of the nineteenth amendment highlighting suffragists and historymaking politicians 
+ saving earth britannica presents earths todo list for the st century learn about the major environmental problems facing our planet and what can be done about them 
+ spacenext britannica presents spacenext from the race to the moon to space stewardship we explore a wide range of subjects that feed our curiosity about space 
+ information retrieval 
+ computer and information science 
+ actions 
+ cite 
+ verifiedcite 
+ while every effort has been made to follow citation style rules there may be some discrepancies please refer to the appropriate style manual or other sources if you have any questions 
+ corrections updates omissions let us know if you have suggestions to improve this article requires login 
+ our editors will review what youve submitted and determine whether to revise the article 
+ while every effort has been made to follow citation style rules there may be some discrepancies please refer to the appropriate style manual or other sources if you have any questions 
+ corrections updates omissions let us know if you have suggestions to improve this article requires login 
+ our editors will review what youve submitted and determine whether to revise the article 
+ information retrieval recovery of information especially in a database stored in a computer two main approaches are matching words in the query against the database index keyword searching and traversing the database using hypertext or hypermedia links evolving informationretrieval techniques exemplified by developments with internet search engines combine natural language hyperlinks and keyword searching internet retrieval can be complicated by the location of the content whether it is accessible on the common surface web or only on the deep web or dark web other techniques that seek higher levels of retrieval precision are studied by researchers involved with artificial intelligence 
